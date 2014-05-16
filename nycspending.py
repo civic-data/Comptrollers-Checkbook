@@ -16,7 +16,8 @@ object.add_response_column('name')
 object.add_response_column('spending_category')
 object.add_response_column('check_amount')
 
-for i in range(0,1000000,1000):
+for i in range(0,10809437,1000):
+#for i in range(0,1000000,1000):
 # spending.
 
     object.delete_criteria('record_from')
