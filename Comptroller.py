@@ -56,7 +56,7 @@ class Budget:
         print self.ID
         return self.ID
     
-    def setID(self,newID)
+    def setID(self,newID):
         print 'New ID:',newID
         self.ID = newID
     
@@ -256,7 +256,7 @@ class Contracts:
         print self.ID
         return self.ID
     
-    def setID(self,newID)
+    def setID(self,newID):
         print 'New ID:',newID
         self.ID = newID
 
@@ -487,7 +487,7 @@ class Payroll:
         print self.ID
         return self.ID
     
-    def setID(self,newID)
+    def setID(self,newID):
         print 'New ID:',newID
         self.ID = newID
         
@@ -686,7 +686,7 @@ class Revenue:
         print self.ID
         return self.ID
     
-    def setID(self,newID)
+    def setID(self,newID):
         print 'New ID:',newID
         self.ID = newID
         
@@ -886,7 +886,7 @@ class Spending:
         print self.ID
         return self.ID
     
-    def setID(self,newID)
+    def setID(self,newID):
         print 'New ID:',newID
         self.ID = newID
         
