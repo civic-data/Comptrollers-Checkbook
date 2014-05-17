@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import sys
 import Comptroller
 from lxml import etree
