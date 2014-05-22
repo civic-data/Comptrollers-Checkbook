@@ -3,7 +3,7 @@ Modifications of Comptrollers-Checkbook
 <p>
 This project has been forked and modified to download the entire database.
 
-Once you have all the data, you upload it to a proper database server such as BigQuery or whatever database server you choose.
+Once you have all the data, you can upload it to a proper database server such as BigQuery or whatever database server you choose.
 
 To use the data already loaded in BigQuery, see <a href="https://bigquery.cloud.google.com/table/personal-real-estate:nyc.comptroller_may_2014">https://bigquery.cloud.google.com/table/personal-real-estate:nyc.comptroller_may_2014</a>
 </p>
