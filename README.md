@@ -1,3 +1,14 @@
+Modifications of Comptrollers-Checkbook
+======================
+<p>
+This project has been forked and modified to download the entire database.
+
+Once you have all the data, you upload it to a proper database server such as BigQuery or whatever database server you choose.
+
+To use the data already loaded in BigQuery, see <a href="https://bigquery.cloud.google.com/table/personal-real-estate:nyc.comptroller_may_2014">https://bigquery.cloud.google.com/table/personal-real-estate:nyc.comptroller_may_2014</a>
+</p>
+
+
 Comptrollers-Checkbook
 ======================
 The Checkbook NYC 2.0 website provides unprecedented access to view and track how New York City government spends its nearly $70 billion annual budget. 
